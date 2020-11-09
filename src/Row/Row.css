@@ -1,0 +1,7 @@
+.poster--mov{
+	overflow-x: scroll;
+	overflow-y: hidden;
+}
+.poster--mov::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,22 @@
+header{
+	object-fit: contain;
+}
+.heading{
+	padding-top: 150px;
+	font-size: 2rem;
+	font-weight: bold;
+}
+.btn-banner{
+	background-color: #242424;
+	color: white;
+	padding: 5px;
+	border: none;
+	outline: none;
+	width: 5.5rem;
+	height: 2rem;
+	transition: all 0.5s linear;
+}
+.btn-banner:hover{
+	background-color: #e3e3e3;
+	color:black;
+}
